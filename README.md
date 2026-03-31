@@ -1,8 +1,10 @@
 ## Hi there 👋
 
 I'm Akeel! I study Neuroscience and Mathematics at UCL :)
+
 Looking for opportunities in Computational Neuroscience
-Linkedin: https://www.linkedin.com/in/akeel-majeed-1618g/
+
+\Linkedin: https://www.linkedin.com/in/akeel-majeed-1618g/
 <!--
 **Akeel-Majeed/Akeel-Majeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
